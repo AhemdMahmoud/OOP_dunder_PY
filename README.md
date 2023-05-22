@@ -8,6 +8,9 @@
 - ### The term `"dunder"` is a colloquial abbreviation for `"double underscore."` In Python, dunder functions `refer` to special methods or functions that are enclosed within double underscores on both sides of their names. These methods provide a way to `define specific behaviors` for objects of a class and are also known as `magic methods` or `special methods`.
 
 - ## Dunder functions in Python are `predefined names` that have a `specific meaning` to the interpreter. They allow you to define `how instances` of your class should `behave in various contexts`, such as `arithmetic operations`, `string representation`, `comparisons`, and more. By implementing dunder functions, you can `customize` the `behavior of your objects` and make them act like `built-in Python types`.
+- 
+![0 (1)](https://github.com/AhemdMahmoud/Mysql-Server_Projects/assets/109467491/2daa11f7-61a4-4280-bf1b-9f6d2b588b22)
+
 
  ## Here are a few `examples` of commonly used `dunder functions`:
 
@@ -27,7 +30,13 @@ __len__
 ~~~
 __add__, __sub__, __mul__, etc
 ~~~
+
+![1_X1M3xNDVfulTLcVvdB6Anw](https://github.com/AhemdMahmoud/Mysql-Server_Projects/assets/109467491/0c89a5d6-db48-422c-bfbe-064071bf9829)
+
 ## These functions define the behavior of arithmetic operations for objects, such as addition, subtraction, multiplication, and others.
+
+
+
 
 # The benefits of using dunder functions include:
 
