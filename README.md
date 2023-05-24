@@ -1,6 +1,7 @@
 # OOP_PY_Training
 
-## In Python, Object-Oriented Programming `(OOP)` is a programming paradigm that allows you to structure your code around objects, which are instances of classes. OOP provides concepts such as `encapsulation`, `inheritance`, and `polymorphism`. Here's an `example` that demonstrates these `concepts` in Python continue with me about:
+## In Python, Object-Oriented Programming `(OOP)` is a programming paradigm that allows you to structure your code around objects, which are instances of classes. OOP provides concepts such as `encapsulation`, `inheritance`, and `polymorphism`. Here's an `example` that demonstrates these `concepts` in   Python, Visit  [Here](https://github.com/AhemdMahmoud/OOP_dunder_PY/blob/main/OOP_CONCEPT_CODE.py)
+# continue with me about:
 
 ![magic-methods-in-python](https://github.com/AhemdMahmoud/Mysql-Server_Projects/assets/109467491/d069bfc5-bb3d-4f7b-919a-5501b283cd35)
 
